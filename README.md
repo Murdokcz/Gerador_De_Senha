@@ -1,9 +1,3 @@
-
-Built by https://www.blackbox.ai
-
----
-
-```markdown
 # Gerador de Senha Forte
 
 ## Project Overview
