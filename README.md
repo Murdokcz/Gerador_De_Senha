@@ -50,7 +50,3 @@ Não há dependências adicionais listadas no `package.json`, mas você pode usa
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se livre para abrir um pull request ou abrir um problema no repositório para melhorias.
-
-## Licença
-Este projeto está licenciado sob a Licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-```
